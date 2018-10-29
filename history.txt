@@ -1,0 +1,1000 @@
+    4  fg
+    5  vim ensemble/py
+    6  ls -l
+    7  vim ensemble2gene.py
+    8  ./ensemble2gene.py
+    9  vim ensemble2gene.py
+   10  ./ensemble2gene.py
+   11  vim ensemble2gene.py
+   12  ./ensemble2gene.py
+   13  vim ensemble2gene.py
+   14  ./ensemble2gene.py
+   15  vim ensemble2gene.py
+   16  ./ensemble2gene.py
+   17  vim ensemble2gene.py
+   18  ensemble2gene.py
+   19  vim ensemble2gene.py
+   20  ./ensemble2gene.py
+   21  vim ensemble2gene.py
+   22  ./ensemble2gene.py
+   23  vim ensemble2gene.py
+   24  ./ensemble2gene.py | more
+   25  vim ensemble2gene.py
+   26  exit 
+   27  ssh xiuwenli@trgn.bioinform.io
+   28  cd /Example/
+   29  cd /data/
+   30  ls -l
+   31  cd /Example/
+   32  ls -l
+   33  vim ensemble2gene.py
+   34  cd ~
+   35  ls -l
+   36  cd /Example/
+   37  cd /data/
+   38  ls -l
+   39  cd /Example/
+   40  ls -l
+   41  vim ensemble.py
+   42  vim ensemble2gene.py
+   43  cd ~
+   44  ls -l
+   45  mkdir Example
+   46  cd Example
+   47  vim ensemble.py
+   48  ./ensemble.py
+   49  vim ensemble2gene.py
+   50  vim ensemble.py
+   51  cd data
+   52  cd tests
+   53  cd projext
+   54  cd project
+   55  cd projects
+   56  cd~
+   57  cd ..
+   58  ls -l
+   59  cd projects
+   60  ls -l
+   61  cd mygraph
+   62  ls -l
+   63  cd data
+   64  cd /data
+   65  ls -l
+   66  cd ..
+   67  ls -l
+   68  cd~
+   69  cd ~
+   70  ls -l
+   71  cd Example
+   72  ls -l
+   73  vim ensemble.py
+   74  pwd
+   75  ls -l
+   76  vim ensemble.py
+   77  ./ensemble.py
+   78  pwd
+   79  vim ensemble.py
+   80  pwd
+   81  cd ~
+   82  cd projects
+   83  cd mygraph
+   84  ls -l
+   85  pwd
+   86  cd /data
+   87  ls -l
+   88  pwd
+   89  cd ~
+   90  cd Example
+   91  ls -l
+   92  vim ensemble.py
+   93  ./ensemble.py
+   94  vim ensemble.py
+   95  rm ensemble.py
+   96  ls -l
+   97  cd /Example/
+   98  ls -l
+   99  vim ensemble.py
+  100  ls -l
+  101  vim ensemble2gene.py
+  102  cd ~
+  103  cd projects
+  104  cd mygraph
+  105  pwd
+  106  vim example.py
+  107  ./example.py
+  108  chmod 755 example.py
+  109  ls -l
+  110  ./example.py
+  111  vim example.py
+  112  ./example.py
+  113  ls -l
+  114  data
+  115  cd data
+  116  cd data/
+  117  vim example.py
+  118  ./example.py
+  119  ls /data/
+  120  ls /data/genesFromHomo_sapiens.GRCh37.75.gtf
+  121  cp /data/genesFromHomo_sapiens.GRCh37.75.gtf .
+  122  ls -l
+  123  cp /data/Salmon_genes.sf .
+  124  ls -l
+  125  pwd
+  126  vim example.py
+  127  .//data/genesFromHomo_sapiens.GRCh37.75.gtf
+  128  ./example.py
+  129  ls /data/genesFromHomo_sapiens.GRCh37.75.gtf
+  130  exit
+  131  vim example.py
+  132  exit
+  133  history
+  134  exit
+  135  cd projects 
+  136  cd mygraph
+  137  ls
+  138  less Homo_sapiens.GRCh37.75.gtf
+  139  cd ~
+  140  mkdir data
+  141  cd data
+  142  cd ..
+  143  ls -l
+  144  cd data
+  145  wget  http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens
+  146  ls -l
+  147  wget  http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens > Homo_sapiens.GRCh37.75.gtf.gz
+  148  ls -l
+  149  gunzip Homo_sapiens.GRCh37.75.gtf.gz
+  150  gunzip homo_sapiens.1
+  151  rm homo_sapiens
+  152  rm homo_sapiens.1
+  153  rm Homo_sapiens.GRCh37.75.gtf.gz
+  154  wget http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens/Homo_sapiens.GRCh37.75.gtf.gz
+  155  gunzip Homo_sapiens.GRCh37.75.gtf.gz
+  156  less Homo_sapiens.GRCh37.75.gtf.gz
+  157  head ~/data/Homo_sapiens.GRCh37.75.gtf
+  158  vim gene_names.py
+  159  ./gene_names.py
+  160  chmod 755 gene_names.py
+  161  ./gene_names.py
+  162  vim gene_names.py
+  163  ./gene_names.py
+  164  vim gene_names.py
+  165  ./gene_names.py
+  166  vim gene_names.py
+  167  ./gene_names.py
+  168  ls -l
+  169  chmod 755 gene_names.py
+  170  ls -l
+  171  ./gene_names.py
+  172  vim gene_names.py
+  173  fg
+  174  vim gene_names.py hello
+  175  ./gene_names.py hello
+  176  fg
+  177  pwd
+  178  vim gene_names.py hello /home/xiuwenli/data/Homo_sapiens.GRCh37.75.gtf
+  179  vim gene_names.py
+  180  ./gene_name.py
+  181  ./gene_names.py
+  182  vim gene_names.py
+  183  ./gene_names.py
+  184  vim gene_names.py
+  185  ./gene_names.py
+  186  vim gene_names.py
+  187  ./gene_names.py
+  188  ./gene_names.py ajskhdfkasdflu
+  189  vi gene_names.py 
+  190  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  191  vi gene_names.py 
+  192  cd data
+  193  ls -l
+  194  vi gene_names.py 
+  195  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  196  vi gene_names.py 
+  197  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  198  vi gene_names.py 
+  199  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  200  vi gene_names.py 
+  201  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  202  vi gene_names.py 
+  203  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  204  vi gene_names.py 
+  205  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  206  ./gene_names.py
+  207  vi gene_names.py 
+  208  ./gene_names.py
+  209  vi gene_names.py 
+  210  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  211  vi gene_names.py 
+  212  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  213  vi gene_names.py 
+  214  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  215  vi gene_names.py 
+  216  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  217  vi gene_names.py 
+  218  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  219  vi gene_names.py 
+  220  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  221  vi gene_names.py 
+  222  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  223  cd data
+  224  vi gene_names.py 
+  225  less Homo_sapiens.GRCh37.75.gtf
+  226  pwd
+  227  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  228  vi gene_names.py 
+  229  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  230  vi gene_names.py 
+  231  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  232  vi gene_names.py 
+  233  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  234  vi gene_names.py 
+  235  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  236  cd ~
+  237  less Homo_sapiens.GRCh37.75.gtf
+  238  exit
+  239  vim circumference.py
+  240  ./circumference.py
+  241  chmod 755 circumference.py
+  242  ./circumference.py
+  243  vim areaCode.py
+  244  ./areaCode.py
+  245  chmod 755 areaCode.py
+  246  ./areaCode.py
+  247  ls -l
+  248  ls 
+  249  cd data
+  250  ls -l
+  251  vi gene_names.py 
+  252  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  253  vi gene_names.py 
+  254  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  255  vi gene_names.py 
+  256  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  257  vi gene_names.py 
+  258  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  259  vi gene_names.py 
+  260  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  261  vi gene_names.py 
+  262  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  263  vi gene_names.py 
+  264  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  265  vi gene_names.py 
+  266  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  267  vi gene_names.py 
+  268  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  269  vi gene_names.py 
+  270  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  271  vi gene_names.py 
+  272  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  273  cd data
+  274  ls -l
+  275  pwd
+  276  vi gene_names.py 
+  277  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  278  vi gene_names.py 
+  279  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  280  vi gene_names.py 
+  281  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  282  vi gene_names.py 
+  283  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  284  :wq
+  285  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  286  vi gene_names.py 
+  287  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  288  :wq
+  289  cd ..
+  290  ls
+  291  cd Example
+  292  ls
+  293  vi gene_names.py 
+  294  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  295  vi gene_names.py 
+  296  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  297  vim example.py
+  298  cd ..
+  299  cd data
+  300  less Homo_sapiens.GRCh37.75.gtf
+  301  cd ..
+  302  cd projects
+  303  cd mygraph
+  304  ls
+  305  less Salmon_genes.sf
+  306  vi gene_names.py 
+  307  ./gene_names.py Homo_sapiens.GRCh37.75.gtf 
+  308  vi gene_names.py 
+  309  less Homo_sapiens.GRCh37.75.gtf
+  310  ls -l
+  311  cp areaCode.py areaCode.py > data
+  312  cd data
+  313  cp areaCode.py areaCode.py
+  314  cd ..
+  315  pwd
+  316  cp areaCode.py areaCode.py>/home/xiuwenli/data
+  317  cp areaCode.py /home/xiuwenli/data/areaCode.py
+  318  cd data
+  319  ls -l
+  320  cd ..
+  321  cp circumference.py /home/xiuwenli/data/circumference.py
+  322  cd data
+  323  ls -l
+  324  cd ..
+  325  ls -l
+  326  cd data
+  327  ./circumference.py
+  328  ./areaCode.py
+  329  cd .
+  330  cd ..
+  331  rm circumference.py
+  332  rm areaCode.py
+  333  ls -l
+  334  git clone https://github.com/xiuwenli/myNewRepo.git
+  335  git clone https://github.com/xiuwenli/data.git
+  336  git clone https://github.com/xiuwenli/myNewRepo.git
+  337  cd ~/myNewRepo
+  338  ls -lsa
+  339  vim LearnRegularExpressions.py
+  340  ./LearnRegularExpressions.py
+  341  wget http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens/Homo_sapiens.GRCh37.75.gtf.g
+  342  wget http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens/Homo_sapiens.GRCh37.75.gtf.gz
+  343  ./LearnRegularExpressions.py 'gene_name(.*?);' Homo_sapiens.GRCh37.75.gtf > matched_lines.txt
+  344  ./LearnRegularExpressions.py Homo_sapiens.GRCh37.75.gtf.gz
+  345  ls -l
+  346  chmod 744 LearnRegularExpressions.py
+  347  chmod 755 LearnRegularExpressions.py
+  348  ls -l
+  349  ./LearnRegularExpressions.py Homo_sapiens.GRCh37.75.gtf.gz
+  350  wq
+  351  vim LearnRegularExpressions.py
+  352  ./LearnRegularExpressions.py Homo_sapiens.GRCh37.75.gtf.gz
+  353  vim LearnRegularExpressions.py
+  354  ./LearnRegularExpressions.py
+  355  vim LearnRegularExpressions.py
+  356  ./LearnRegularExpressions.py Homo_sapiens.GRCh37.75.gtf.gz
+  357  ls -l
+  358  vim LICENSE
+  359  vim README
+  360  git add .
+  361  git commit -m "rc9"
+  362  git push -u origin master
+  363  cd ~
+  364  echo "# LearningPython" >> README.md
+  365  git init
+  366  git add README.md
+  367  git commit -m "first commit"
+  368  git remote add origin https://github.com/xiuwenli/LearningPython.git
+  369  ls -lcd ~
+  370  ls -l
+  371  cd README.md
+  372  less README.md
+  373  git clone https://github.com/trgn510/LearningPython-.git
+  374  cd data
+  375  ls -l
+  376  git add .
+  377  git add . 
+  378  git commit -m "rc9"
+  379  git push -u origin master
+  380  vim README.md
+  381  git add .
+  382  git commit -m "rc9"
+  383  git push -u origin master
+  384  ls -l
+  385  vim .gitignore
+  386  git add .
+  387  git commit -m "rc9"
+  388  git push -u origin master
+  389  cd data
+  390  ls -l
+  391  vi gene_names.py 
+  392  ./gene_names.py 
+  393  vi gene_names.py 
+  394  ./gene_names.py 
+  395  vi gene_names.py 
+  396  ./gene_names.py 
+  397  vi gene_names.py 
+  398  ./gene_names.py 
+  399  cd data
+  400  ./gene_names.py 
+  401  vi gene_names.py 
+  402  exit
+  403  cd data
+  404  ./gene_names.py 
+  405  vi gene_names.py 
+  406  ./gene_names.py 
+  407  vi gene_names.py 
+  408  ./gene_names.py 
+  409  exit
+  410  history
+  411  ls -l
+  412  cd projects/
+  413  ls
+  414  cd ..
+  415  cd myNewRepo/
+  416  ls
+  417  ls -lsa
+  418  git add .
+  419  git commit -m "test"
+  420  git  push -u origin master
+  421  quit
+  422  exit
+  423  cd data
+  424  ls -l
+  425  git clone https://github.com/xiuwenli/LearningPython-.git
+  426  git add .
+  427  git commit -m "rc9"
+  428  git push -u origin master
+  429  .github
+  430  vim .github
+  431  ls -l
+  432  vim REANME.md
+  433  vim .gitignore
+  434  git add .
+  435  git commit -m "rc9"
+  436  git push -u origin master
+  437  .gitignore
+  438  vim gitignore
+  439  .github
+  440  .gitignore
+  441  git add .
+  442  git commit -m "rc9"
+  443  git push -u origin master
+  444  exit
+  445  cd data
+  446  ls -l
+  447  rm README.md
+  448  ls -l
+  449  vim gitignore
+  450  mv gitignore .gitignore
+  451  vim .gitignore
+  452  rm gitignore
+  453  ls -l
+  454  vim .gitignore
+  455  cd data
+  456  git clone https://github.com/xiuwenli/LearningPython-.git
+  457  ls -la
+  458  rm .github
+  459  ls -la
+  460  vim .gitinore
+  461  git add .
+  462  git clone https://github.com/xiuwenli/LearningPython.git
+  463  ls -la
+  464  git add .
+  465  git clone https://github.com/xiuwenli/LearningPython.git
+  466  git clone https://github.com/trgn510/myNewRepo.git
+  467  git clone https://github.com/xiuwenli/LearningPython.git
+  468  git clone https://github.com/xiuwenli/LearningPython-.git
+  469  ls -la
+  470  rm LearningPython
+  471  rm -p LearningPython
+  472  rm -rf LearningPython
+  473  rm -rf LearningPython-
+  474  ls -la
+  475  git clone https://github.com/xiuwenli/LearningPython.git
+  476  ls -la
+  477  cd LearningPython
+  478  ls -lsa
+  479  cd ..
+  480  pwd
+  481  cp areaCode.py areaCode.py > /home/xiuwenli/data/LearningPython
+  482  cp areaCode.py areaCode.py>/home/xiuwenli/data/LearningPython
+  483  cp areaCode.py areaCode.py>LearningPython
+  484  cp circumference.py /home/xiuwenli/data/LearningPython/circumference.py
+  485  cp areaCode.py /home/xiuwenli/data/LearningPython/areaCode.py
+  486  cp gene_names.py /home/xiuwenli/data/LearningPython/gene_names.py
+  487  cd LearningPython
+  488  ls -l
+  489  ./areaCode.py
+  490  ./gene_names.py
+  491  ls -lsa
+  492  vim README.md
+  493  git add .
+  494  git commit -m "rc9"
+  495  git push -u origin master
+  496  exit
+  497  cd ~
+  498  exit
+  499  cd data
+  500  ls -l
+  501  cd learningPython
+  502  ls -l
+  503  exit
+  504  mkdir Assignment5
+  505  cd Assignments
+  506  pwd
+  507  vim gene2variant.py
+  508  wwrgt http://rest.ensembl.org/overlap/id/ENSG00000130203.json?feature=variation
+  509  wget http://rest.ensembl.org/overlap/id/ENSG00000130203.json?feature=variation
+  510  ls -l
+  511  gunzip ENSG00000130203.json?feature=variation
+  512  ./ENSG00000130203.json?feature=variation
+  513  head ENSG00000130203.json?feature=variation
+  514  cd ~
+  515  cd Assigment5
+  516  pwd
+  517  cd ~
+  518  ls -l
+  519  cd data
+  520  ls -l
+  521  cp Homo_sapiens.GRCh37.75.gtf /home/xiuwenli/Assignment5
+  522  cd ~
+  523  cd Assignment5
+  524  ls -l
+  525  cd data
+  526  ls -l
+  527  less Homo_sapiens.GRCh37.75.gtf
+  528  cd ..
+  529  ls -l
+  530  cd Example
+  531  ls -l
+  532  cd ..
+  533  cd tests
+  534  ls -l
+  535  cd ..
+  536  cd projects
+  537  ls -l
+  538  cd ..
+  539  cd projects
+  540  ls -l
+  541  cd ..
+  542  cd Assignments
+  543  ls -l
+  544  vim gene2variant.py
+  545  less Homo_sapiens.GRCh37.75.gtf
+  546  vim gene2variant.py
+  547  ls -l
+  548  vim gene2variant.py
+  549  wget http://rest.ensembl.org/overlap/id/ENSG00000130203.json
+  550  vim gene2variant.py
+  551  wget http://rest.ensembl.org/overlap/id/ENSG00000130203.json?feature=variation/ENSG00000130203.json
+  552  vim gene2variant.py
+  553  chmmod 755 gene2variant.py
+  554  chmod 755 gene2variant.py
+  555  ls -l
+  556  ./gene2variant.py
+  557  vim gene2variant.py
+  558  ./gene2variant.py
+  559  vim gene2variant.py
+  560  cd ~
+  561  cd data
+  562  ls -l
+  563  d ~
+  564  cd ~
+  565  cd Assignment5
+  566  ./gene2variant.py
+  567  pwd
+  568  vim gene2variant.py
+  569  cd Assignment5
+  570  vim gene2variant.py
+  571  ./gene2variant.py
+  572  vim gene2variant.py
+  573  ./gene2variant.py
+  574  ls -l
+  575  wget http://rest.ensembl.org/overlap/id/ENSG00000130203.json?feature=variation/ENSG00000130203.json
+  576  ./gene2variant.py
+  577  exit
+  578  cd Assignment5
+  579  vim gene2variant.py
+  580  cd Assugnment5
+  581  vim gene2variant.py
+  582  cd Assignment5
+  583  vim gene2variant.py
+  584  ./gene2variant.py
+  585  vim gene2variant.py
+  586  cd Assignment5
+  587  vim gene2variant.py
+  588  cd Assignment5
+  589  vim gene2variant2.py
+  590  rm gene2variant.py
+  591  ls -l
+  592  chmod 755 gene2variant2.py
+  593  ls -l
+  594  exit
+  595  cd Assignment5
+  596  rm gene2variant.py
+  597  vim gene2variant2.py
+  598  cd Assignment5
+  599  vim gene2variant2.py
+  600  ./gene2variant2.py
+  601  vim gene2variant2.py
+  602  cd Assignment5
+  603  vim gene2variant2.py
+  604  exit
+  605  cd Assignment
+  606  ./gene2variant2.py
+  607  exit
+  608  cd assignment5
+  609  vim gene2variant2.py
+  610  ./gene2variant2.py
+  611  vim gene2variant2.py
+  612  ./gene2variant2.py
+  613  vim gene2variant2.py
+  614  ./gene2variant2.py
+  615  vim gene2variant2.py
+  616  ./gene2variant2.py
+  617  vim gene2variant2.py
+  618  ./gene2variant2.py
+  619  vim gene2variant2.py
+  620  ./gene2variant2.py
+  621  vim gene2variant2.py
+  622  ./gene2variant2.py
+  623  vim gene2variant2.py
+  624  cd assignment5
+  625  vim gene2variant2.py
+  626  cd assignment5
+  627  ./gene2variant2.py
+  628  vim gene2variant2.py
+  629  ./gene2variant2.py
+  630  vim gene2variant2.py
+  631  ./gene2variant2.py
+  632  vim gene2variant2.py
+  633  ./gene2variant2.py
+  634  vim gene2variant2.py
+  635  ./gene2variant2.py
+  636  vim gene2variant2.py
+  637  ./gene2variant2.py
+  638  vim gene2variant2.py
+  639  ./gene2variant2.py
+  640  vim gene2variant2.py
+  641  ./gene2variant2.py
+  642  vim gene2variant2.py
+  643  ./gene2variant2.py
+  644  exit
+  645  cd Assignment5
+  646  vim gene2variant2.py
+  647  vi python.py
+  648  python3
+  649  vim gene2variant2.py
+  650  ./gene2variant2.py
+  651  vim gene2variant2.py
+  652  ssh xiuwenli@trgn.bioinform.io
+  653  cd assignment5
+  654  vim gene2variant2.py
+  655  ./gene2variant2.py
+  656  vim gene2variant2.py
+  657  ./gene2variant2.py
+  658  vim gene2variant2.py
+  659  ./gene2variant2.py
+  660  vim gene2variant2.py
+  661  ./gene2variant2.py
+  662  vim gene2variant2.py
+  663  ./gene2variant2.py
+  664  vim gene2variant2.py
+  665  exit
+  666  vim gene2variant2.py
+  667  exit
+  668  ssh xiuwenli@trgn.bioinform.io
+  669  exit
+  670  cd Assignment5
+  671  ./gene2variant2.py
+  672  vim gene2variant2.py
+  673  ./gene2variant2.py
+  674  vim gene2variant2.py
+  675  ./gene2variant2.py
+  676  vim gene2variant2.py
+  677  ./gene2variant2.py
+  678  cd Assignment5
+  679  vim gene2variant2.py
+  680  ./gene2variant2.py
+  681  ./gene2variant2.py
+  682  vim gene2variant2.py
+  683  ./gene2variant2.py
+  684  vim gene2variant2.py
+  685  ./gene2variant2.py
+  686  vim gene2variant2.py
+  687  ./gene2variant2.py
+  688  vim gene2variant2.py
+  689  ./gene2variant2.py
+  690  vim gene2variant2.py
+  691  ./gene2variant2.py
+  692  vim gene2variant2.py
+  693  ./gene2variant2.py
+  694  cd Assignment5
+  695  vim gene2variant2.py
+  696  vim gene2variant2.py
+  697  cd Assignment5
+  698  vim gene2variant2.py
+  699  ./gene2variant2.py
+  700  :wq
+  701  vim gene2variant2.py
+  702  :wq
+  703  ./gene2variant2.py
+  704  vim gene2variant2.py
+  705  ./gene2variant2.py
+  706  cd Assignment5
+  707  ./gene2variant2.py
+  708  vim gene2variant2.py
+  709  ./gene2variant2.py
+  710  vim gene2variant2.py
+  711  vim gene2variant2.py
+  712  ./gene2variant2.py
+  713  cd ~
+  714  git clone https://github.com/xiuwenli/Assignment5.git
+  715  ls -l
+  716  mv -rf Assignment5 Assignment
+  717  exit
+  718  exit
+  719  mv dirAssignment5 dirassignment
+  720  mv dir Assignment5 dir assignment
+  721  git clone https://github.com/xiuwenli/assignment5.git
+  722  cd Assignment5
+  723  ls -l
+  724  cp gene2varuant2.py /home/xiuwenli/assignment5/gene2variant.py
+  725  cp gene2variant2.py /home/xiuwenli/assignment5/gene2variant2.py
+  726  cp Homo_sapiens.GRCh37.75.gtf /home/xiuwenli/assignment5/Homo_sapiens.GRCh37.75.gtf
+  727  cd ~
+  728  cd assignment5
+  729  ls -l
+  730  vi .gitignore
+  731  git add .
+  732  git commit -m "rc9"
+  733  git push -u origin master
+  734  exit
+  735  cd assignment5
+  736  ls =l
+  737  ls -l
+  738  ./gene2variant2.py
+  739  exit
+  740  git clone https://github.com/xiuwenli/RNASeqExample.git
+  741  cd RNASeqExample/
+  742  cd RNASeqExample
+  743  ls
+  744  git clone https://github.com/tgrn510/RNASeqExample.git
+  745  cd RNASeqExample/
+  746  gunzip *.gz
+  747  ls 
+  748  vim README.md
+  749  open sample_info.csv
+  750  exit
+  751  exit
+  752  ls
+  753  cd Assignment5
+  754  ls -l
+  755  ./gene2variant2.py
+  756  vi gene2variant2.py
+  757  ./gene2variant2.py
+  758  vi gene2variant2.py
+  759  ./gene2variant2.py
+  760  vi gene2variant2.py
+  761  ./gene2variant2.py
+  762  vi gene2variant2.py
+  763  ./gene2variant2.py
+  764  vi gene2variant2.py
+  765  ./gene2variant2.py
+  766  vi gene2variant2.py
+  767  ./gene2variant2.py
+  768  vi gene2variant2.py
+  769  ./gene2variant2.py
+  770  vi gene2variant2.py
+  771  ./gene2variant2.py
+  772  vi gene2variant2.py
+  773  ./gene2variant2.py
+  774  vi gene2variant2.py
+  775  ./gene2variant2.py
+  776  wq
+  777  vi gene2variant2.py
+  778  wq
+  779  ./gene2variant2.py
+  780  wq
+  781  vi gene2variant2.py
+  782  ./gene2variant2.py
+  783  vi gene2variant2.py
+  784  ./gene2variant2.py
+  785  vi gene2variant2.py
+  786  ./gene2variant2.py
+  787  vi gene2variant2.py
+  788  ./gene2variant2.py
+  789  exit
+  790  cd Assignment5
+  791  vi gene2variant2.py
+  792  cd Assignment5
+  793  ./gene2variant2.py
+  794  vi gene2variant2.py
+  795  ./gene2variant2.py
+  796  vi gene2variant2.py
+  797  ./gene2variant2.py
+  798  :wq
+  799  ./gene2variant2.py
+  800  vi gene2variant2.py
+  801  ./gene2variant2.py
+  802  vi gene2variant2.py
+  803  ./gene2variant2.py
+  804  vi gene2variant2.py
+  805  ./gene2variant2.py
+  806  vi gene2variant2.py
+  807  ./gene2variant2.py
+  808  vi gene2variant2.py
+  809  ./gene2variant2.py
+  810  vi gene2variant2.py
+  811  ./gene2variant2.py
+  812  vi gene2variant2.py
+  813  ./gene2variant2.py
+  814  vi gene2variant2.py
+  815  ./gene2variant2.py
+  816  vi gene2variant2.py
+  817  ./gene2variant2.py
+  818  vi gene2variant2.py
+  819  ./gene2variant2.py
+  820  vi gene2variant2.py
+  821  ./gene2variant2.py
+  822  vi gene2variant2.py
+  823  ./gene2variant2.py
+  824  vi gene2variant2.py
+  825  ./gene2variant2.py
+  826  vi gene2variant2.py
+  827  ./gene2variant2.py
+  828  vi gene2variant2.py
+  829  ./gene2variant2.py
+  830  vi gene2variant2.py
+  831  ./gene2variant2.py
+  832  vi gene2variant2.py
+  833  ./gene2variant2.py
+  834  head /home/xiuwenli/Assignment5/Homo_sapiens.GRCh37.75.gtf
+  835  vi gene2variant2.py
+  836  ./gene2variant2.py
+  837  vi gene2variant2.py
+  838  ./gene2variant2.py
+  839  vi gene2variant2.py
+  840  vi gene2variant2.py 
+  841  fg
+  842  rm .gene2variant*
+  843  vi gene2variant2.py 
+  844  ./gene2variant2.py
+  845  wq
+  846  vi gene2variant2.py 
+  847  ./gene2variant2.py
+  848  exiy
+  849  exit
+  850  exit
+  851  cd assignment5
+  852  cd ..
+  853  cd Assignment5
+  854  ls -l
+  855  vi gene2variant2.py 
+  856  ./gene2variant2.py
+  857  wq
+  858  vi gene2variant2.py 
+  859  ./gene2variant2.py
+  860  vi gene2variant2.py 
+  861  ./gene2variant2.py
+  862  vi gene2variant2.py 
+  863  ./gene2variant2.py
+  864  vi gene2variant2.py 
+  865  ./gene2variant2.py
+  866  vi gene2variant2.py 
+  867  ./gene2variant2.py
+  868  vi gene2variant2.py 
+  869  ./gene2variant2.py
+  870  vi gene2variant2.py 
+  871  ./gene2variant2.py
+  872  vi gene2variant2.py 
+  873  ./gene2variant2.py
+  874  vi gene2variant2.py 
+  875  ./gene2variant2.py
+  876  vi gene2variant2.py 
+  877  ./gene2variant2.py
+  878  vi gene2variant2.py 
+  879  ./gene2variant2.py
+  880  vi gene2variant2.py 
+  881  ./gene2variant2.py
+  882  vi gene2variant2.py 
+  883  ./gene2variant2.py
+  884  vi gene2variant2.py 
+  885  ./gene2variant2.py
+  886  vi gene2variant2.py 
+  887  ./gene2variant2.py
+  888  git add .
+  889  git commit -m "Initial Script"
+  890  git push origin master
+  891  ls -l
+  892  exit
+  893  ls -l
+  894  cd assignment5
+  895  ls -l
+  896  cd Assignemnt5
+  897  ls -l
+  898  vim gene2variant2.py
+  899  ./gene2variant2.py
+  900  git add .
+  901  git commit -m "Initial Script"
+  902  git push origin master
+  903  exit
+  904  vim gene2variant2.py
+  905  ls -l
+  906  exit
+  907  cd Assignemnt5
+  908  vim gene2variant2.py
+  909  exit
+  910  history
+  911  vim gene2variant2.py
+  912  cd Assignemnt5
+  913  vim gene2variant2.py
+  914  exit
+  915  pwd
+  916  date
+  917  mkdir midterm
+  918  ls -l
+  919  ~/midterm
+  920  cd midterm
+  921  cd ..
+  922  ls -a
+  923  ls -ls
+  924  ls -la
+  925  vim ~/.bashrc
+  926  echo $PATH
+  927  pwd
+  928  vim ~/.bashrc
+  929  echo $PATH
+  930  vim ~/.bashrc
+  931  echo $PATH
+  932  vim ~/.bashrc
+  933  pwd
+  934  exit
+  935  pwd
+  936  vim ~/.bashrc
+  937  echo $PATH
+  938  pwd
+  939  exit
+  940  pwd
+  941  echo $PATH
+  942  vim ~/.bashrc
+  943  echo $PATH
+  944  vim ~/.bashrc
+  945  echo $PATH
+  946  cd midterm
+  947  pwd
+  948  cd ..
+  949  vim ~/.bashrc
+  950  echo $PATH
+  951  vim ~/.bashrc
+  952  ls -l
+  953  cd bin
+  954  ls -l
+  955  cd midterm
+  956  pwd
+  957  cd ..
+  958  cd midterm
+  959  ls -l
+  960  vim makeupper
+  961  ./makeupper
+  962  history
+  963  chmod 755 makeupper
+  964  l -l
+  965  ls -l
+  966  ./makeupper
+  967  vim makeupper
+  968  ./makeupper
+  969  vim makeupper
+  970  history
+  971  vim numbers.txt
+  972  chmod 755 numbers.txt
+  973  ./numbers.txt
+  974  vim numbers.txt
+  975  ./numbers.txt
+  976  wc -l numbers.txt
+  977  wc -m numbers.txt
+  978  wc -w numbers.txt
+  979  cd midterm
+  980  touch numbers.txt1
+  981  ls -l
+  982  rm numbbers.txt
+  983  rm -rf numbers.txt1
+  984  ls -l
+  985  touch numbers1.txt
+  986  chmod 700 numbers1.txt
+  987  ls -l
+  988  touch numbers2.txt
+  989  chmod 755 numbers2.txt
+  990  ls -l
+  991  pwd
+  992  find /home/xiuwenli/midterm/ -name "*.txt"
+  993  cd ..
+  994  find /home/xiuwenli/ -name "*.sh"
+  995  cd ~
+  996  find /home/xiuwenli/ -name "*.sh"
+  997  echo $PATH
+  998  find /home/xiuwenli/midterm -name "*.sh"
+  999  find /home/xiuwenli/midterm -name "*.txt"
+ 1000  exit
+ 1001  cd midterm 
+ 1002  history 
+ 1003  history > history.txt

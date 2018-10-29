@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "1234 12121 3434 123 12341239879" | xargs -n1
+printf "1234\n12121\n3434\n123\n12341239879\n" \ | awk '{ len=length($0); res=""; for (i=0;i<=len;i++) { res=substr($0,len-i+1,1) res; if (i > 0 && i < len && i % 3 == 0) { res = "," res } }; print res }'| xargs -n1

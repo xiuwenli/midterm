@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo What you want to type?
+
+read type 
+
+VAR1=$type
+VAR2=${VAR1^^}
+
+echo $VAR2
