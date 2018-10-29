@@ -237,7 +237,8 @@ ui <- fluidPage(
      selectInput('x', 'X', c("Displ" = "displ", "Years" = "year", "Cyl" = "cyl", "Cty" = "cty", "Hwy" = "hwy")),
      selectInput('y', 'Y', c("Displ" = "displ", "Years" = "year", "Cyl" = "cyl", "Cty" = "cty", "Hwy" = "hwy")),
      selectInput('color', 'Color', c("Manufacturer" = "manufacturer", "Model" = "model", "Trans" = "trans", "Drv" = "drv", "Fl" = "fl", "Class" = "class")),
-     checkboxInput('geom_violin', 'geom_violin')
+     checkboxInput('facet_wrap', 'Facet by Cyl'),
+     checkboxInput('facet_grid', 'Facet by Year')
    ),
      # Show a plot of the generated distribution
      mainPanel(
@@ -250,14 +251,16 @@ ui <- fluidPage(
 server <- function(input, output) {
    
    output$plot <- renderPlot({
-     p <- ggplot(dataset, aes_string(x=input$x, y=input$y, fill=input$color))
-     if (input$geom_violin)
-       p <- p + geom_violin(aes_string(x=input$x, y=input$y))
+     p <- ggplot(dataset, aes_string(x=input$x, y=input$y, fill=input$color)) + geom_violin()
+     if (input$facet_wrap)
+       p <- p + facet_wrap(~cyl)
+     print(p)
+    if (input$facet_grid)
+       p <- p + facet_grid(year ~ .)
      print(p)
 
    })
 }
-
 # Run the application 
 shinyApp(ui = ui, server = server)
 ```
